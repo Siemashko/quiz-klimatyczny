@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/quiz-klimatyczny/static/css/main.11c4ada4.css",
-    "main.js": "/quiz-klimatyczny/static/js/main.955437de.js",
-    "quiz-klimatyczny/static/js/787.a7e11b80.chunk.js": "/quiz-klimatyczny/static/js/787.a7e11b80.chunk.js",
+    "main.css": "/static/css/main.11c4ada4.css",
+    "main.js": "/static/js/main.955437de.js",
+    "static/js/787.a7e11b80.chunk.js": "/static/js/787.a7e11b80.chunk.js",
     "index.html": "/index.html",
-    "main.11c4ada4.css.map": "/quiz-klimatyczny/static/css/main.11c4ada4.css.map",
-    "main.955437de.js.map": "/quiz-klimatyczny/static/js/main.955437de.js.map",
-    "787.a7e11b80.chunk.js.map": "/quiz-klimatyczny/static/js/787.a7e11b80.chunk.js.map"
+    "main.11c4ada4.css.map": "/static/css/main.11c4ada4.css.map",
+    "main.955437de.js.map": "/static/js/main.955437de.js.map",
+    "787.a7e11b80.chunk.js.map": "/static/js/787.a7e11b80.chunk.js.map"
   },
   "entrypoints": [
-    "quiz-klimatyczny/static/css/main.11c4ada4.css",
-    "quiz-klimatyczny/static/js/main.955437de.js"
+    "static/css/main.11c4ada4.css",
+    "static/js/main.955437de.js"
   ]
 }
