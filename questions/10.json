@@ -1,0 +1,13 @@
+{
+  "question": "Które z następujących zjawisk świadczą o globalnej zmianie klimatu?",
+  "options": {
+    "1": "Wzmożona aktywność słoneczna",
+    "2": "Wyspa z plastiku na Oceanie Spokojnym, pomiędzy Kalifornią a Hawajami",
+    "3": "Nasilenie się ekstremalnych zjawisk pogodowych, takich jak powodzie błyskawiczne, gwałtowne burze, huraganowe wiatry, fale upałów, susze"
+  },
+  "answer": "3",
+  "displayAnswer": "Nasilenie się ekstremalnych zjawisk pogodowych, takich jak powodzie błyskawiczne, gwałtowne burze, huraganowe wiatry, fale upałów, susze, świadczą o zmianie klimatu.",
+  "explanation": "Wraz z rosnącą średnią temperaturą powierzchni Ziemi niektóre ze zjawisk ekstremalnych stają się coraz częstsze lub coraz bardziej intensywne. Zmienia się ich prawdopodobieństwo wystąpienia oraz średnie cechy – np. temperatura, prędkość wiatru czy zasięg zalania.\n\ncyt. za portalem: Nauka o klimacie",
+  "questionNumber": 10,
+  "totalQuestions": 13
+}

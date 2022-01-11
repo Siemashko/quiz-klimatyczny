@@ -1,0 +1,14 @@
+{
+  "question": "Które ze stwierdzeń jest fałszywe?",
+  "options": {
+    "1": "Wszelkie procesy na planecie są ze sobą powiązane.",
+    "2": "Zmiany klimatyczne mają charakter lokalny i nie dotyczą Polski.",
+    "3": "Klimat znacząco wpływa na aktywność roślin i zwierząt oraz na glebę.",
+    "4": "Zmiany klimatyczne na naszej planecie postępują obecnie bardzo szybko."
+  },
+  "answer": "2",
+  "displayAnswer": "Zmiany klimatyczne nie mają charakteru lokalnego i dotyczą też Polski.",
+  "explanation": "W Polsce już możemy odczuć wpływ zmian klimatu. Częściej napływa do nas wilgotne powietrze znad Atlantyku, zimy są łagodniejsze, rzadziej widujemy śnieg. Więcej jest dni słonecznych, kiedy jest zbyt gorąco i parno oraz więcej zjawisk ekstremalnych. \n\ncyt. za portalem: Nauka o klimacie",
+  "questionNumber": 12,
+  "totalQuestions": 13
+}

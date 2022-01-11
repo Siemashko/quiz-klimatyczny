@@ -1,0 +1,13 @@
+{
+  "question": "Czy uważasz, że do przeciwdziałania globalnemu ociepleniu wystarczy sadzić duże ilości drzew?",
+  "options": {
+    "1": "Tak, bo drzewa pochłaniają dwutlenek węgla, odpowiedzialny za globalne ocieplenie.",
+    "2": "Tak, ponieważ dzięki oddawaniu wilgoci do atmosfery drzewa spowodują jej ochłodzenie.",
+    "3": "Nie, sadzone drzewa nie są w stanie wychwycić ilości CO2 równej ilości emitowanego przez nas CO2."
+  },
+  "answer": "3",
+  "displayAnswer": "Sadzone drzewa nie są w stanie wychwycić ilości CO2 równej ilości emitowanego przez nas CO2.",
+  "explanation": "Aby zatrzymać ocieplanie się klimatu, ludzkość musi zaprzestać emisji gazów cieplarnianych do atmosfery, czyli przede wszystkim odejść do spalania paliw kopalnych\n\ncyt. za portalem: Nauka o klimacie ",
+  "questionNumber": 6,
+  "totalQuestions": 13
+}

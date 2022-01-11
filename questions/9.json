@@ -1,0 +1,14 @@
+{
+  "question": "Kto lub co odpowiada za zmiany klimatu na świecie?",
+  "options": {
+    "1": "To niczyja wina. Zmiany klimatu zachodzą w sposób naturalny. W historii Ziemi klimat zmieniał się nie raz.",
+    "2": "Za zmiany klimatu odpowiedzialne są wybuchy wulkanów, powodujące uwolnienie do atmosfery ogromnych ilości dwutlenku węgla (CO2).",
+    "3": "Obecne zmiany klimatu, których skutki mogą okazać się katastrofalne dla ludzkości, wywołane są działalnością człowieka, czyli mają charakter antropogeniczny.",
+    "4": "Za zmiany klimatu odpowiada zmniejszająca się liczba plam na Słońcu oraz ciągły spadek aktywności słonecznej."
+  },
+  "answer": "3",
+  "displayAnswer": "Obecne zmiany klimatu, których skutki mogą okazać się katastrofalne dla ludzkości, wywołane są działalnością człowieka, czyli mają charakter antropogeniczny.",
+  "explanation": "Z raportu ogólnego „Climate Change 2021. The Physical Science Basis” („Zmiany klimatu 2021. Podstawy fizyczne”). (...) Zastosowanie nowych narzędzi badawczych pozwoliło jednoznacznie ustalić, że ocieplenie klimatu jest efektem ludzkiej działalności.\n\ncyt. za portalem: Demagog",
+  "questionNumber": 9,
+  "totalQuestions": 13
+}

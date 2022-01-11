@@ -1,0 +1,12 @@
+{
+  "question": "Parowanie zrównoważy wzrost poziomu morza.",
+  "options": {
+    "1": "Prawda",
+    "2": "Fałsz"
+  },
+  "answer": "2",
+  "displayAnswer": "Parowanie nie zrównoważy wzrost poziomu morza.",
+  "explanation": "Wielu błędnie uważa, że wzrost poziomu morza związany z topnieniem lodowców i rozszerzalnością termiczną wody zostanie w ocieplającym się klimacie zrównoważony nasilonym parowaniem. A przecież para skropli się i opadnie w postaci deszczu lub śniegu. \n\ncyt. za portalem: Nauka o klimacie",
+  "questionNumber": 5,
+  "totalQuestions": 13
+}

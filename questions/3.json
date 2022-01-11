@@ -1,0 +1,12 @@
+{
+  "question": "Korzystanie z internetu: serwisów streamingowych, mediów społecznościowych, maili itp. ma wpływ na zwiększenie emisji gazów cieplarnianych.",
+  "options": {
+    "1": "Prawda",
+    "2": "Fałsz"
+  },
+  "answer": "1",
+  "displayAnswer": "Korzystanie z internetu: serwisów streamingowych, mediów społecznościowych, maili itp. ma wpływ na zwiększenie emisji gazów cieplarnianych.",
+  "explanation": "Globalny transfer danych i niezbędna do tego infrastruktura generują niemal 4 proc. emisji dwutlenku węgla przewyższając pod tym względem nawet przemysł lotniczy, którego udział w globalnej emisji dwutlenku węgla szacuje się na około 2,5 proc. \n\ncyt. za portalem: Energetyka24",
+  "questionNumber": 3,
+  "totalQuestions": 13
+}

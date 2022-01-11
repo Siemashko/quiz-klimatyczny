@@ -1,0 +1,14 @@
+{
+  "question": "Który przemysł odpowiada za większość związanych z działalnością człowieka emisji dwutlenku węgla?",
+  "options": {
+    "1": "Energetyka",
+    "2": "Transport",
+    "3": "Produkcja plastiku",
+    "4": "Produkcja żywności"
+  },
+  "answer": "1",
+  "displayAnswer": "Energetyka odpowiada za większość związanych z działalnością człowieka emisji dwutlenku węgla.",
+  "explanation": "Energetyka odpowiada za większość związanych z działalnością człowieka emisji dwutlenku węgla. Sektor ten odpowiada za ok. 35% antropogenicznych emisji gazów cieplarnianych, ale większość energii jest użytkowana nie przez branżę energetyczną, a jej klientów. \n\ncyt. za publikacją: Klimatyczne ABC",
+  "questionNumber": 13,
+  "totalQuestions": 13
+}

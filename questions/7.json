@@ -1,0 +1,13 @@
+{
+  "question": "Czy uważasz, że oszczędzanie energii elektrycznej przez osoby takie jak ty może mieć wpływ na zmiany klimatu?",
+  "options": {
+    "1": "Tak, ale pod warunkiem, że wiele osób podejmie takie działania.",
+    "2": "Nie – zużycie energii elektrycznej przez osoby indywidualne nie ma większego znaczenia.",
+    "3": "Nie wiem."
+  },
+  "answer": "1",
+  "displayAnswer": "Oszczędzanie energii elektrycznej przez osoby takie jak ty może mieć wpływ na zmiany klimatu, ale pod warunkiem, że wiele osób podejmie takie działania.",
+  "explanation": "“Jeśli — działając indywidualnie — mamy siłę, by zdestabilizować naszą planetę, z całą pewnością — działając razem — mamy moc, by ją ocalić”.\nsir David Attenborough \n\ncyt. za portalem: Nauka o klimacie",
+  "questionNumber": 7,
+  "totalQuestions": 13
+}

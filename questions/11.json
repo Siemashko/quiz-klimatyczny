@@ -1,0 +1,14 @@
+{
+  "question": "Co to jest albedo?",
+  "options": {
+    "1": "Wskaźnik określający amplitudę średnich temperatur w oceanach.",
+    "2": "Rodzaj wiatru kontynentalnego.",
+    "3": "W astronomii jest to liczba wskazująca, jaka część światła padającego na ciało niebieskie jest odbijana.",
+    "4": "Pasza stosowana dla potrzeb hodowli zwierząt na terenie Ameryki Południowej."
+  },
+  "answer": "3",
+  "displayAnswer": "Albedo - w astronomii jest to liczba wskazująca, jaka część światła padającego na ciało niebieskie jest odbijana.",
+  "explanation": "Albedo – zdolność odbijania promieniowania padającego na daną powierzchnię, wyrażana jako stosunek ilości promieniowania odbitego we wszystkich kierunkach do ilości promieniowania padającego na tą powierzchnię. \n\ncyt. za portalem: Ekologia.pl",
+  "questionNumber": 11,
+  "totalQuestions": 13
+}
